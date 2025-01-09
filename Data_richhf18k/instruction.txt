@@ -1,2 +1,3 @@
 This dataset contains the .pt file form of the Richhf dataset,
-as well as the images and prompt words in Pick-a-Pic used by Richhf
+as well as the images and prompt words in Pick-a-Pic used by Richhf,
+can be downloaded from https://drive.google.com/file/d/1LIHp5mUuVbw0ehy11exbqGW5tTQXGS7N/view?usp=share_link
