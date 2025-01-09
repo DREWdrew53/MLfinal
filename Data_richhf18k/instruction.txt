@@ -1,0 +1,2 @@
+This dataset contains the .pt file form of the Richhf dataset,
+as well as the images and prompt words in Pick-a-Pic used by Richhf
